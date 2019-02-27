@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidFundamentals</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="click_me">Click me!</string>
+    <string name="email">email</string>
+    <string name="i_accept_t_and_c">I accept T and C</string>
+    <string name="white">white</string>
+    <string name="black">black</string>
+    <string name="login">LOGIN</string>
+    <string name="eMail">Email</string>
+    <string name="phone">Phone</string>
+    <string name="submit">SUBMIT</string>
+    <string name="long_text">pam pam pam pam pam pam pam</string>
+    <string name="extra_long_text">hello it s me hello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s mehello it s me</string>
+    <string name="hello">VIN FIERT</string>
+    <string name="greeting">Hai la vin fiert DIMI</string>
+    <string name="greeting2">E frig afara si vinu-i cald</string>
+    <string name="scroll_view_info">ScrollView: A view group that allows the view hierarchy placed within it to be scrolled. Scroll view may have only one direct child placed within it. To add multiple views within the scroll view, make the direct child you add a view group, for example LinearLayout, and place additional views within that LinearLayout.</string>
+    <string name="lyfecycle">lifecycle</string>
+    <string name="secondActivity">secondActivity</string>
+    <string name="dbname_my_trips">MyTrips</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cosmin.androidfundamentals">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name=".Week3.LoginActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity android:name=".Week3.ViewGroupActivity" />
+        <activity android:name=".Week3.WebViewActivity" />
+        <activity android:name=".Week3.SpinnerActivity" />
+        <activity android:name=".Week3CC.ScrollViewAndRelLayoutActivity" />
+        <activity android:name=".Week3CC.SpinnerActivity" />
+        <activity android:name=".week4.RecycleViewActivity" />
+        <activity android:name=".week4CC.RecycleViewCC1" />
+        <activity
+            android:name=".week5.LifecycleActivity"
+            android:label="@string/lyfecycle" />
+        <activity
+            android:name=".week5.SecondActivity"
+            android:label="@string/secondActivity" />
+        <activity android:name=".week5CC.FirstActivity" />
+        <activity android:name=".week5CC.SecondActivityCC" />
+        <activity android:name=".week7CC.CardViewActivity" />
+        <activity android:name=".week7CC.CollapsingBarActivity" />
+        <activity android:name=".week8.GithubActivity" />
+        <activity android:name=".week9.Main2Activity" />
+        <activity android:name=".week9.SharedPreferencesActivity" />
+        <activity android:name=".proiectFinal.login.LoginActivity"
+            android:label="My Trip Journal">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".proiectFinal.home.SignOutFragment" />
+        <activity android:name=".proiectFinal.edit.EditTripsActivity"
+            android:label="Manage Trip"/>
+        <activity android:name=".proiectFinal.home.MainTripActivity"
+            android:label="My Trips"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+    </application>
+
+</manifest>
